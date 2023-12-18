@@ -1,0 +1,19 @@
+repo_name: BenHerbst/AmirAli-AZ
+report_id: 0bb9c596488b2e6b7363e071a703c401
+version: 0.1
+repo_type: Public
+timestamp: '2023-12-18T21:51:34+00:00'
+requested_by: AmirAli-AZ
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
